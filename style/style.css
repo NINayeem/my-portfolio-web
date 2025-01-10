@@ -107,3 +107,32 @@ margin-top: 130px;
     display: flex;
     justify-content: space-around;
 }
+.skill-conainer{
+    display: flex;
+    gap: 14px;
+
+}
+.skill{
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px;
+    color: #000000;
+    border-radius: 5px;
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+
+}
+.resume-container{
+    display: flex;
+    gap: 24px;
+
+}
+.exprience-discription{
+    font-size: 20px;
+    font-weight: 600px;
+}
+.text-center{
+    margin-top: 50px;
+    text-align: center;
+}
